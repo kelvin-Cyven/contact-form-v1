@@ -1,0 +1,23 @@
+body{
+    background-color: slategray;
+}
+nav{
+    padding: 0px 0px 0px 60px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    font-size: large;
+    font-family: monospace;
+}
+ul li{
+    display: block;
+    margin: 0px 2px 0px 22px;
+}
+nav ul{
+    display: ruby;
+}
+h2.title {
+    margin: 0px 0px 8px 228px;
+}
